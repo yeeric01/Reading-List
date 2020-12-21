@@ -26,6 +26,19 @@ h1{
     background-color:rgba(83, 106, 209, 0.432);
 }
 
+/*card*/
+.card{
+    width:120px;
+    height:150px;
+    margin:10px 10px 10px 10px;
+    display:inline-block;
+    background-color:beige;
+    text-align:center;
+    border:solid;
+    border-radius:5px;
+}
+
+
 /*modal pop up*/
 .modal{
     display: none;
